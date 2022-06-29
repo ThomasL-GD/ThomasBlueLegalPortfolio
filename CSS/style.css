@@ -4,9 +4,26 @@
     font-weight: bold;
 }
 
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
 .title{
     font-family: "work_sans"/*, sans-serif*/;
     font-weight: bold;
     text-align: center;
     font-size: larger;
+}
+
+.NavBar{
+    background-color: #325894;
+    color: #325894;
+}
+
+.NavText{
+    font: optional;
+    font-family: "work_sans", sans-serif;
+    font-size: large;
+    color: #ffffff;
 }
