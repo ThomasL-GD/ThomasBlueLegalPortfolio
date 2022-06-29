@@ -1,4 +1,12 @@
+@font-face {
+    font-family: "work_sans";
+    src: url("/fonts/Work_Sans/static/WorkSans-Bold.ttf") format("ttf");
+    font-weight: bold;
+}
+
 .title{
+    font-family: "work_sans"/*, sans-serif*/;
+    font-weight: bold;
     text-align: center;
-    border: 3px solid green;
+    font-size: larger;
 }
