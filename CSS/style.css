@@ -18,12 +18,26 @@
 
 .NavBar{
     background-color: #325894;
-    color: #325894;
+    color: #328594;
+    /* width: 100vw;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around; */
 }
 
 .NavText{
-    font: optional;
     font-family: "work_sans", sans-serif;
-    font-size: large;
+    font-size: 100%;
     color: #ffffff;
+    display: inherit;
+    align-self: middle;
 }
+
+.NavContainer{
+    /*padding: 10%;*/
+    display: inherit;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+} 
