@@ -11546,3 +11546,9 @@ html {
 .copyright {
   background-color: #1a252f;
 }
+
+/* Tis my shit*/
+
+.custom-icon-color:hover{
+  fill: currentColor;
+}
