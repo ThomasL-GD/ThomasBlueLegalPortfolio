@@ -11549,6 +11549,6 @@ html {
 
 /* Tis my shit*/
 
-.custom-icon-color:hover{
-  fill: currentColor;
+.custom-icon-parent:hover .custom-icon-color{
+  fill: #000;
 }
