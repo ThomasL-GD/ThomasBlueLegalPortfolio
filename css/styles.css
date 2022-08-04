@@ -11547,7 +11547,8 @@ html {
   background-color: #1a252f;
 }
 
-/* Tis my shit*/
+
+/*Tis my shit*/
 
 .custom-icon-parent:hover .custom-icon-color{
   fill: #000;
@@ -11557,4 +11558,14 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+.text-subtitle {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.separator{
+  flex: 0 0 auto;
+  width: 4%;
 }
